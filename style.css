@@ -1,0 +1,22 @@
+.my-color2{
+    background-color: #264653;
+}
+
+#bike-1{
+    filter: grayscale(100%);
+}
+#bike-3{
+    filter: grayscale(100%);
+}
+.stars{
+    color: #E77C40;
+}
+.my-color1{
+    color:#E76F51;
+}
+.my-color3{
+    background-color: #E76F51;
+}
+body {
+    overflow-x: hidden;
+  }
