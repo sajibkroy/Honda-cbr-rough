@@ -20,3 +20,12 @@
 body {
     overflow-x: hidden;
   }
+
+  /* Media Queries */
+
+/* @media screen (max-width:688px){ */
+    /* .header-image{ */
+        /* width: 10px; */
+    }
+    
+}
