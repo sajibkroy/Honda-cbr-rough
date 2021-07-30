@@ -4,7 +4,9 @@
 
 #bike-1{
     filter: grayscale(100%);
+
 }
+
 #bike-3{
     filter: grayscale(100%);
 }
@@ -23,9 +25,9 @@ body {
 
   /* Media Queries */
 
-/* @media screen (max-width:688px){ */
-    /* .header-image{ */
-        /* width: 10px; */
-    }
+/* @media screen (width:580px){
+    body {
+        overflow-x: hidden !important;
+    } */
     
-}
+} 
